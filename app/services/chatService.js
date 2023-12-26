@@ -3,7 +3,7 @@ import axios from "axios";
 export default class API {
   constructor() {
     this.instance = axios.create({
-      baseURL: `https://chat-nbx.vercel.app/api/v1`,
+      baseURL: `https://master--polite-sable-6474d3.netlify.app/api/v1`,
     });
   }
 

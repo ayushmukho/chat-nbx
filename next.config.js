@@ -11,7 +11,7 @@ module.exports = {
           { key: "Access-Control-Allow-Credentials", value: "true" },
           {
             key: "Access-Control-Allow-Origin",
-            value: "https://chat-nbx.vercel.app",
+            value: "https://master--polite-sable-6474d3.netlify.app/",
           },
           {
             key: "Access-Control-Allow-Methods",
